@@ -59,7 +59,7 @@ The server does **not store any long-lived key** capable of decrypting user data
 
 ### Compact flow
 
-![](./img/envelope_encryption_flow.png)
+![](img/envelope_encryption_flow.png)
 
 ### Security intuition
 
